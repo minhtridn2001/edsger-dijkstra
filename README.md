@@ -1,5 +1,5 @@
 # edsger-dijkstra
-Implement edsger dijkstra algorithm - C programming UNIX
+Implement edsger dijkstra algorithm - C programming UNIX  
 SAMPLE INPUT:  
 9  
 1 2 7  
